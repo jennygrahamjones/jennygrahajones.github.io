@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: An Empty Page!
 description: Nowt to see here :) 
+is_project_page: false
